@@ -1,0 +1,65 @@
+*{
+   margin: 0;
+   padding: 0;
+   font-family:fantasy ;
+   text-transform: uppercase;  
+   font-weight: bold;   
+}
+
+
+nav{
+    width: 150%;
+    height: 180px ;
+    background-color: #a555ff;
+    text-align: center;
+    
+}
+
+Ul li{ 
+    padding-top: 46px;
+    list-style: none;
+    display: inline-block;
+    
+        
+}
+
+Ul li a{
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    font-size: 31px;
+    padding: 20px;
+    
+}
+
+
+
+Ul li a:hover{
+    background-color: #afff40;
+    padding: 19px ;
+    border: solid;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    border-radius: 15px;
+    border-width: 7px;
+}
+
+body{
+    background-color: gainsboro;
+}
+
+img{
+    background-size: cover;
+    width: 1390px;
+    margin: 5px;
+    border-radius: 17px;
+    background-color: black;
+    
+}
+
+h1{
+    font-size: 125px ;
+    text-align: center;
+    color: yellowgreen;
+    padding: 25px ;
+}
